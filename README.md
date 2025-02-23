@@ -1,7 +1,6 @@
 # AI-Driven Personalized Insurance Recommendation System
 
-## Team Name
-- **Losers?**
+## Team Name: **Losers?**
 
 ## Overview
 This project was developed as part of the SBI Life Hackathon to create an **AI-driven personalized recommendation system** for insurance policies. Our solution aims to enhance customer experience and increase the propensity to purchase by offering **intelligent and tailored insurance recommendations**.
